@@ -1,0 +1,14 @@
+data:
+  raw:
+    raw_1: "../data/raw/df_final_demo.txt"
+    raw_2: "../data/raw/df_final_experiment_clients.txt"
+    raw_3: "../data/raw/df_final_web_data_pt_1.txt"
+    raw_4: "../data/raw/df_final_web_data_pt_2.txt"
+  clean:
+    clean_1: "../data/clean/clients.csv"
+    clean_2: "../data/clean/sessions.csv"
+    clean_3: "../data/clean/session_outcome.csv"
+    clean_4: "../data/clean/session_pivot.csv"
+    clean_5: "../data/clean/session_pivot_filtered.csv"
+    clean_6: "../data/clean/repeated_steps.csv"
+    clean_7: "../data/clean/repeated_steps_agg.csv"
